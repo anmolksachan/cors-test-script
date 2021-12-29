@@ -1,4 +1,4 @@
-# CORS Test Script
+# CORS Test Script - POC
 
 Edit the main.js file and add your link you want to test.
 
