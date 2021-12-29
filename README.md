@@ -1,6 +1,7 @@
 # CORS Test Script - POC
 
 Edit the main.js file and add your link you want to test.
+Open index.html in browser then open inspect -> console, if its vulnerable you can see data being fetched.
 
 ## What is CORS?
 If another domain is allowed by the policy, then that domain can potentially attack users of the application. If a user is logged in to the application, and visits a domain allowed by the policy, then any malicious content running on that domain can potentially retrieve content from the application, and sometimes carry out actions within the security context of the logged in user.
